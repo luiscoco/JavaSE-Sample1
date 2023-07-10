@@ -1,5 +1,6 @@
 # Java_SE-Sample1. How to create and run my first JavaSE application.
 
+## A. Using for IDE the Notepad++
 1. Open Notepad++ and create a sample1.java file with the following java code:
 ```java
 /** This is my first application in Java */
@@ -30,3 +31,11 @@ Hello World
 javadoc sample1.java
 ```
 5. The double click on the index.htm file and you will see your application documentation.
+
+## B. Using Eclipse as IDE
+
+https://www.youtube.com/watch?v=VDLgUo120_I&list=PL0mc8qF5QkI__tLOA0UBX-3NpmodCvF92&index=2
+
+## C. Using IntelliJ IDEA as IDE
+
+https://www.youtube.com/watch?v=OjiRWDFfllQ&list=PL0mc8qF5QkI__tLOA0UBX-3NpmodCvF92&index=1
