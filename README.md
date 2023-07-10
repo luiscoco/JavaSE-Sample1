@@ -1,5 +1,11 @@
 # Java_SE-Sample1. How to create and run my first JavaSE application.
 
+Prerequisite. Install Java and check the java version installed running this command:
+
+```
+java --version
+```
+
 ## A. Using for IDE the Notepad++
 1. Open Notepad++ and create a sample1.java file with the following java code:
 ```java
