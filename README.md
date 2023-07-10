@@ -39,3 +39,7 @@ https://www.youtube.com/watch?v=VDLgUo120_I&list=PL0mc8qF5QkI__tLOA0UBX-3NpmodCv
 ## C. Using IntelliJ IDEA as IDE
 
 https://www.youtube.com/watch?v=OjiRWDFfllQ&list=PL0mc8qF5QkI__tLOA0UBX-3NpmodCvF92&index=1
+
+## D. Using NetBeans as IDE
+
+https://www.youtube.com/watch?v=yULwqUQy0VU&list=PL0mc8qF5QkI__tLOA0UBX-3NpmodCvF92&index=3
