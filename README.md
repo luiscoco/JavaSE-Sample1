@@ -49,3 +49,43 @@ https://www.youtube.com/watch?v=OjiRWDFfllQ&list=PL0mc8qF5QkI__tLOA0UBX-3NpmodCv
 ## D. Using NetBeans as IDE
 
 https://www.youtube.com/watch?v=yULwqUQy0VU&list=PL0mc8qF5QkI__tLOA0UBX-3NpmodCvF92&index=3
+
+## E. How to upload the new Java project in Github
+
+Navigate inside the new Java project folder.
+
+Initialize the Git repository in your local folder running the command:
+```
+git init
+```
+
+Add all the files in the new projet running the command:
+
+```
+git add .
+```
+
+Commit the first changes running the command:
+
+```
+git commit -m "first commit"
+```
+
+Set the remote repository running the command:
+
+```
+
+```
+
+Push the changes running the command:
+
+```
+git push
+```
+
+To check the final status about the git repository run the command
+
+```
+git status
+```
+```
