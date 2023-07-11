@@ -82,6 +82,10 @@ Push the changes running the command:
 ```
 git push
 ```
+or 
+```
+git push --set-upstream origin master
+```
 
 To check the final status about the git repository run the command
 
