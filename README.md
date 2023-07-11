@@ -74,7 +74,7 @@ git commit -m "first commit"
 Set the remote repository running the command:
 
 ```
-
+git remote add origin https://github.com/luiscoco/test.git
 ```
 
 Push the changes running the command:
