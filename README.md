@@ -88,4 +88,3 @@ To check the final status about the git repository run the command
 ```
 git status
 ```
-```
