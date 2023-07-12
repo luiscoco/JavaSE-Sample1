@@ -1,7 +1,9 @@
 # Java_SE-Sample1. How to create and run my first JavaSE application.
 
-Prerequisite. Install Java and check the java version installed running this command:
+## Prerequisite. Install Java.
+https://www.oracle.com/java/technologies/downloads/
 
+Check Java was installed, run the command:
 ```
 java --version
 ```
