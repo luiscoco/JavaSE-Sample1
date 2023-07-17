@@ -89,6 +89,36 @@ or
 git push --set-upstream origin master
 ```
 
+## Creating a build.yml file for Github actions
+
+```yml
+name: Java Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up JDK
+        uses: actions/setup-java@v1
+        with:
+          java-version: '11'
+
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Compile Java
+        run: javac -d . *.java
+```
+
 To check the final status about the git repository run the command
 
 ```
