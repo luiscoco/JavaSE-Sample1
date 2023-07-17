@@ -89,6 +89,12 @@ or
 git push --set-upstream origin master
 ```
 
+To check the final status about the git repository run the command
+
+```
+git status
+```
+
 ## Creating a build.yml file for Github actions
 
 ```yml
@@ -117,10 +123,4 @@ jobs:
 
       - name: Compile Java
         run: javac -d . *.java
-```
-
-To check the final status about the git repository run the command
-
-```
-git status
 ```
